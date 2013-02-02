@@ -1,0 +1,17 @@
+pygments: true
+main_title: Sarawak Report, Election Monitor
+include: [a, c, j]
+auto: true
+navigation:
+- text: View Map
+  url: /
+  idd: view
+- text: Submit Report
+  url: /submit
+  idd: submit
+- text: About
+  url: /about
+  idd: about
+- text: Get in touch
+  url: /touch
+  idd: touch
